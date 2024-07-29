@@ -7,7 +7,7 @@ import java.io.FileInputStream;
 /**
  * 1984. 중간 평균값 구하기 D2
  */
-public class D2_1984 {
+public class Solution_1984 {
 
     public static void main(String[] args) throws Exception {
         Scanner sc = new Scanner(System.in);

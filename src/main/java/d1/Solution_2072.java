@@ -1,12 +1,11 @@
 package d1;
 
 import java.util.Scanner;
-import java.io.FileInputStream;
 
 /**
  * 2072. 홀수만 더하기 D1
  */
-public class D1_2072 {
+public class Solution_2072 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

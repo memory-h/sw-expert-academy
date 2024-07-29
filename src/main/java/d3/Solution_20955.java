@@ -1,12 +1,11 @@
 package d3;
 
 import java.util.Scanner;
-import java.io.FileInputStream;
 
 /**
  * 20955. XY 문자열 1 D3
  */
-public class D3_20955 {
+public class Solution_20955 {
 
     public static void main(String[] args) throws Exception {
         Scanner sc = new Scanner(System.in);
