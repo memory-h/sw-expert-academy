@@ -51,7 +51,7 @@ public class Solution_19113 {
 
         bw.write(sb.toString());
         bw.flush();
-        br.close();
+        bw.close();
     }
 
 }
